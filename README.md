@@ -1,3 +1,3 @@
-# object-detection-radar-system
+# Arduino Ultrasonic Radar System
 
-An object detection radar system built with Arduino, HC-SR04 ultrasonic sensor, and a servo motor.  The radar scans the surroundings and visualizes detected objects in real time using Processing.  A passive buzzer alerts when an object is within a specified range.
+This project demonstrates a simple Object Detection Radar System built using Arduino. An HC-SR04 ultrasonic sensor mounted on a servo motor scans the environment and detects objects. The detected object's position and distance are visualized in real time using Processing, creating a radar-like interface. A passive buzzer provides an audible alert when an object is detected within a predefined range.
